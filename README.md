@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="150" src="https://uni-muenster.sciebo.de/s/Uc63tyDAQRLJXiJ/download">
+    <img height="150" src="https://uni-muenster.sciebo.de/s/BMZPcx1ggQGvQOF/download">
 </p>
 
 # clevR-vis
