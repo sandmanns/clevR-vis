@@ -1,3 +1,5 @@
+## Please check out our updated version 'clevRvis'
+
 <p align="center">
     <img height="150" src="https://uni-muenster.sciebo.de/s/BMZPcx1ggQGvQOF/download">
 </p>
